@@ -1,5 +1,5 @@
-exports.TOKEN = 'NDQ3MTI1NTk1MTQzNDA1NTg5.DeDBrQ.7SyYYfZRj9xWUlyqKr_q5V1zjeY'; // ya wr3 la tns5
+exports.TOKEN = 'NDY2NzEzNjI1NzY4MzYxOTg1.DigEcw.F_j6gKjDO_wT3D6LHgSmBoHKT8Q'; // ya wr3 la tns5
 
-exports.PREFIX = 'm';
+exports.PREFIX = 'x';
 
 exports.GOOGLE_API_KEY = 'AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8';
