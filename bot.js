@@ -276,7 +276,7 @@ client.on('message', message => {
   // we ignore it
   if (!message.guild) return;
 
-  if (message.content === 'mjoin') {
+  if (message.content === 'xjoin') {
     // Only try to join the sender's voice channel if they are in one themselves
     if (message.member.voiceChannel) {
       message.member.voiceChannel.join()
@@ -290,7 +290,7 @@ client.on('message', message => {
 })
 
 client.on('ready', () => {
-  client.user.setGame('❤ والله احبك ❤','https://www.twitch.tv/pd13');
+  client.user.setGame('R.I.P Xxxtentacion','https://www.twitch.tv/pd13');
 });
 
 client.login(process.env.BOT_TOKEN);
